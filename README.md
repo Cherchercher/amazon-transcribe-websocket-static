@@ -1,6 +1,6 @@
 ## Amazon Transcribe Websocket Static
 
-[Site](https://transcribe-websockets.go-aws.com/)
+[Site](https://master.d3mel3lyoeya63.amplifyapp.com/)
 
 A static site demonstrating real-time medical audio transcription via Amazon Transcribe over a WebSocket.
 
