@@ -1,8 +1,8 @@
 ## Amazon Transcribe Websocket Static
 
-[Try it out](https://transcribe-websockets.go-aws.com/)
+[Site](https://transcribe-websockets.go-aws.com/)
 
-A static site demonstrating real-time audio transcription via Amazon Transcribe over a WebSocket.
+A static site demonstrating real-time medical audio transcription via Amazon Transcribe over a WebSocket.
 
 This demo app uses browser microphone input and client-side JavaScript to demonstrate the real-time streaming audio transcription capability of [Amazon Transcribe](https://aws.amazon.com/transcribe/) using WebSockets.
 
@@ -20,7 +20,7 @@ We use [browserify](https://github.com/browserify/browserify) to enable browser 
 2. run `npm install`
 3. run `npm run-script build` to generate `dist/main.js`.
 
-Once you've bundled the JavaScript, all you need is a webserver. For example, from your project directory: 
+Once you've bundled the JavaScript, all you need is a webserver. For example, from your project directory:
 
 ```
 npm install --global local-web-server
@@ -33,4 +33,4 @@ This project is based on code written by Karan Grover from the Amazon Transcribe
 
 ## License
 
-This library is licensed under the Apache 2.0 License. 
+This library is licensed under the Apache 2.0 License.
